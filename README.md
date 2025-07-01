@@ -1,8 +1,3 @@
-# Comming soon
-
-I know it's been a while since I updated this repo, but hopefully in the next months I can add more features on the project.
-Thanks everyone who gave a star and forked it 🫶
-
 # Next.js Ecommerce
 
 This repo contains a work in progress Ecommerce responsive made with Next.js, Redux, Redux-persist, Hooks, SCSS and BEM. If you like it please give it a star :)
@@ -18,9 +13,6 @@ Then do a `yarn dev` to run it locally.
 The backend of the project it's only mocked data. You can find them in `utils/data`.
 The API is being handled by Next API routes.
 
-## Design
-
-[This](https://www.xdguru.com/free-xd-ecommerce-ui-kit-by-iceo/) is the design of the project.
 
 ## Available pages
 
